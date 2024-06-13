@@ -93,3 +93,42 @@ Using our earlier examples, these would be candidate keys for a “customer” t
     First Name, Last Name, Date of Birth
 
 These keys are all candidate keys, as they are an option or candidate to be the primary key. They don’t contain any redundant attributes – we don’t specify “Social Security Number and First Name” as a candidate key, because Social Security Number is a key by itself.
+
+
+# Alternate Key
+
+An alternate key is any of the candidate keys that are not the primary key.Alternate Key
+
+They are an option or alternate to the primary key. This can also be called a unique key.
+
+For example, using the candidate keys above:
+
+    Social Security Number
+    Customer ID
+    First Name, Last Name, Date of Birth
+
+
+# Unique Key
+
+A unique key is an attribute in the table which is unique. It can be used to identify a row, but may not be the primary key. This can also be called an alternate key.
+Unique Key
+9606906 – against the white background is bunch of five keys
+
+This is because a table can have only one primary key. But there may be more than one unique value in the table.
+
+For example, consider a country table that has these fields:
+
+    Country ID
+    ISO Code
+    Country Name
+
+The country ID may be the primary key. The ISO code may also be a unique value, and would be a unique key. However, as we already have a primary key, we can’t make this column the primary key as well. It can be a unique key.
+
+
+# Foreign Key
+
+A foreign key is a column or set of columns in a table that refers to a primary key in another table.Foreign Key
+
+They are used to specify that this record in this table is related to that record in that table.
+
+Using the earlier customer and bank account example, you are a customer at a bank. You may have several accounts with that bank. These account details would be records in an account table.
