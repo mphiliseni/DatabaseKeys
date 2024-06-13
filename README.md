@@ -31,3 +31,10 @@ Also, the columns in the primary key cannot contain *NULL* values. You must spec
 
 Finally, a table can have only one primary key. You can’t create a second primary key on a different set of columns after you’ve created your primary key.
 
+# Example (PK & FK Relational database)
+
+![image](https://github.com/mphiliseni/DatabaseKeys/assets/63716265/93d7fd63-805b-40da-8772-27e4abd8a549)
+
+
+
+
