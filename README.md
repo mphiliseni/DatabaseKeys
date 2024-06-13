@@ -36,5 +36,20 @@ Finally, a table can have only one primary key. You can’t create a second prim
 ![image](https://github.com/mphiliseni/DatabaseKeys/assets/63716265/93d7fd63-805b-40da-8772-27e4abd8a549)
 
 
+# Natural Key
+
+What is a Natural Key?
+
+A natural key is an attribute that exists in the real world or is used by the business. It can be used to uniquely identify the row.
+
+
+# Advantages of a Natural Key
+
+When designing your database, you’ll need to choose a primary key for each of your tables. One option you have is to choose a natural key.
+
+There are several advantages of using a natural key as a primary key:
+
+    It already exists, meaning you don’t need to create a new column in your table.
+    It simplifies the quality of your data as it ensures only one row can exist for this value
 
 
