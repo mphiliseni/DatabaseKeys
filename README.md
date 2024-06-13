@@ -1,6 +1,8 @@
 # DatabaseKeys
 60 Days Database Challenge
 
+![image](https://github.com/mphiliseni/DatabaseKeys/assets/63716265/863765af-2bba-4a43-8db5-ca77bac98b17)
+
 
 # What is a Key?
 
