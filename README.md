@@ -134,3 +134,6 @@ A foreign key is a column or set of columns in a table that refers to a primary 
 They are used to specify that this record in this table is related to that record in that table.
 
 Using the earlier customer and bank account example, you are a customer at a bank. You may have several accounts with that bank. These account details would be records in an account table.
+
+
+# Database Relationships
