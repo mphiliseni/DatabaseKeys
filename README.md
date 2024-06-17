@@ -137,3 +137,12 @@ Using the earlier customer and bank account example, you are a customer at a ban
 
 
 # Database Relationships
+
+# Many to Many Relationships
+
+A many to many relationship is common in databases. Some examples where it can happen are:
+
+    Students and subjects
+    Employees and companies (an employee can have many jobs at different companies, and a company has many employees)
+    Actors and movies (an actor is in multiple movies, and a movie has multiple actors)
+
